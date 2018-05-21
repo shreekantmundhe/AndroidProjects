@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Name of the app [CHAR LIMIT=20] -->
+    <string name="app_name">The Guardian</string>
+
+    <!-- Label for perceived strength value [CHAR LIMIT=40] -->
+    <string name="perceived_strength">Perceived Strength</string>
+
+    <!-- Number of people who reported perceived strength fornewsuake [CHAR LIMIT=NONE] -->
+    <string name="num_people_felt_it"><xliff:g id="number" example="10">%s</xliff:g> people felt it</string>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="error_closing_input_stream">Error closing input stream</string>
+    <string name="error_with_creating_url">Error with creating URL</string>
+    <string name="error_response_code">Error response code:</string>
+    <string name="json_result_problem">Problem retrieving the news JSON results.</string>
+    <string name="json_parsing_problem">Problem parsing the news JSON results</string>
+
+    <string name="response">response</string>
+    <string name="result">result</string>
+    <string name="web_title">webTitle</string>
+    <string name="web_date">webPublicationDate</string>
+    <string name="web_url">webUrl</string>
+    <string name="section_name">sectionName</string>
+
+</resources>

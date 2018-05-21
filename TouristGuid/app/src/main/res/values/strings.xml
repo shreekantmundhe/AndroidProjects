@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Pune Tourist Guide</string>
+    <string name="diwali">Diwali</string>
+    <string name="gudi_padwa">Gudi Padwa</string>
+    <string name="makar_sankaranti">Makar Sankaranti</string>
+
+    <string name="misal_pav">Misal Pav</string>
+    <string name="bunmaska">Chaha and Bun maska pav</string>
+    <string name="bhel">Bhel</string>
+
+    <string name="forts">Forts</string>
+    <string name="hill_stations">Hill Stations</string>
+
+    <string name="tikona_description">Tikona is one of the strongest fort in Lovanala region.  The region between Kokan and Ghat is devided into 12 small sections which are known as \"Maval\". Tikona fort is in Pawana maval which is named after the Pawana river.</string>
+    <string name="purandar_description">The fort is situated in the Western Ghats and stands 4472 ft above sea level. Purandar and Vajragad or Rudramal fort are twin forts. However the latter is comparatively smaller than Purandar Fort. A village is named after the fort and is called Purandar Village situated at the bottom of the fort.</string>
+    <string name="torna_description">Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra. It is historically significant because it was the first fort captured by king Shivaji in 1646, at the age of 16, forming the nucleus of the Maratha empire. The hill has an elevation of 1,403 metres (4,603 ft) above sea level, making it the highest hill-fort in the district. The name derives from Prachanda (Marathi for huge or massive) and gad (Marathi for fort).[1]</string>
+    <string name="lohagad_description">Lohagad (iron fort) is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level. The fort is connected to the neighboring Visapur fort by a small range.</string>
+    <string name="sinhagad_description">Sinhagad (also known as Sinhgad) is a hill fortress located at around 25 km southwest of the city of Pune, India. Some of the information available at this fort suggests that the fort could have been built 2000 years ago. The caves and the carvings in the Kaundinyeshwar temple stand as proofs for the same.</string>
+    <string name="tikona">Tikona </string>
+    <string name="purandar">Purandar</string>
+    <string name="torna">Torna </string>
+    <string name="lohagad">Lohagad </string>
+    <string name="sinhagad">Sinhagad</string>
+    <string name="fort_details">Fort Details</string>
+    <string name="khandala">Khandala</string>
+    <string name="lonavla">Lonavla</string>
+
+    <string name="sairat">Sairat</string>
+    <string name="fandry">Fandry</string>
+    <string name="pavsacha_nibandh">Pavsacha Nibandh</string>
+    <string name="movie_description">Nagraj Manjule</string>
+
+    <string name="natsamrat">Natsamrat</string>
+    <string name="chor_polis">Chor Polis</string>
+    <string name="sahi_re_sahi">Sahi re Sahi</string>
+
+    <string name="puneri_patya">Punery Patya</string>
+    <string name="ganpati_visarjan">Ganpati Visarjan</string>
+
+    <string name="city">City</string>
+    <string name="attraction">Attraction</string>
+    <string name="travel">Travel</string>
+
+
+    <string name="city_details">"Pune (Marathi pronunciation: [puɳe]; English: /ˈpuːnə/;[19][20]), formerly spelled Poona (1857-1978),[21][22][23] is the second largest city in the Indian state of Maharashtra after Mumbai. It is the ninth most populous city in the country with an estimated population of 3.13 million.[24] Along with its industrial twin Pimpri-Chinchwad as well as the three cantonment areas of Pune, Khadki and Dehu Road, Pune forms the urban core of the eponymous Pune Metropolitan Region.[25] According to the 2011 census, the urban area has a combined population of 5.05 million while the population of the metropolitan region is estimated at 7.27 million.[25][26] Situated 560 metres (1,837 feet) above sea level on the Deccan plateau on the right bank of the Mutha river,[27] Pune is also the administrative headquarters of its namesake district. In the 18th century, the city was the seat of the Peshwas, the prime ministers of the Maratha Empire and hence, one of the most important political centers on the Indian subcontinent.[28]\n" +
+    "Considered to be the cultural capital of Maharashtra,[29][better source needed] Pune is known as \"Oxford of the East\" due to the presence of several well-known educational institutions.[30][31] The city has emerged as a major educational hub in recent decades, with nearly half of the total international students in the country studying in Pune.[32][33] Since the 1950s and 1960s, Pune has had a traditional old-economic base as most of the old industries continue to grow. The city is known for its manufacturing and automobile industries, as well as for research institutes of information technology (IT), education, management and training, which attracts students and professionals from India, Southeast Asia, the Middle East and Africa.[citation needed] Several colleges in Pune have student-exchange programs with colleges in Europe.[34] The game of Badminton was developed in Pune and the game's earlier name was Poona.[35][36]\n" +
+        "The ‘Mercer 2017 Quality of Living Rankings’ evaluated living conditions in more than 440 cities around the world and ranked Pune at 145, second in India after Hyderabad at 144.[37] The same source highlights Pune among evolving business centres and nine emerging cities around the world with the citation \"Hosts IT and automotive companies\".[38] The 2017 Annual Survey of India’s City-Systems (ASICS) report release by Janaagraha Centre for Citizenship and Democracy, adjudged Pune as the best governed city amongst 23 major cities across 20 states [39].")</string>
+
+    <string-array name="tab_titles">
+        <item>CITY</item>
+        <item>ATTRACTION</item>
+        <item>TRAVEL</item>
+    </string-array>
+</resources>
